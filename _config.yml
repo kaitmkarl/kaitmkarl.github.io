@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Kaitlin Karl"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student | Collaborative Conservation Genomics Laboratory"
   location         : "Champaign-Urbana, Illinois"
-  employer         : "University of Illinois at Urbana Champaign"
+  employer         : "University of Illinois"
   uri              : # URL
   email            : "kmkarl2@illinois.edu" 
 
@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Kaitlin-Karl"
   scopus           : # URL
 
   # Repositories and software development
