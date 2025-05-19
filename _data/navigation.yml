@@ -15,19 +15,19 @@ main:
     url: /year-archive/
 
   - title: "Presentations"
-    url: /talks/    
-
-  #- title: "Teaching"
-    #url: /teaching/    
+    url: /talks/  
     
-  - title: "Illustration Portfolio"
+  - title: "Scientific Illustration"
     url: /portfolio/
     
   - title: "CV"
     url: /files/KMK_CV_19V25.pdf
     
+  #- title: "Teaching"
+    #url: /teaching/  
+    
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
