@@ -21,7 +21,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /files/KMK_CV_19V25.pdf
+    #url: /files/KMK_CV_19V25.pdf
     
   #- title: "Teaching"
     #url: /teaching/  
