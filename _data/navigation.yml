@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Science Writing"
+    url: /year-archive/  
+    
+  - title: "Illustration Portfolio"
+    url: /portfolio/
 
   - title: "Presentations"
-    url: /talks/  
-    
-  - title: "Scientific Illustration"
-    url: /portfolio/
+    url: /talks/
     
   - title: "CV"
     #url: /files/KMK_CV_19V25.pdf
