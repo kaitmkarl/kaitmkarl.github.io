@@ -46,4 +46,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about me and my research at UIUC: (https://blogs.illinois.edu/view/8126/1187534807). Please feel welcome to reach out to me at kmkarl2@illinois.edu.
+More info about my research at the Prairie Research Institute, UIUC: [People of PRI](https://blogs.illinois.edu/view/8126/1187534807).
+
+Please feel welcome to contact me at kmkarl2@illinois.edu.
