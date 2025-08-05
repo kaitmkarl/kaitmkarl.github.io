@@ -21,7 +21,7 @@ Art has always been central to how I engage with wildlife. Since childhood, I’
 
 Now, as a PhD student, I aim to integrate ecological fieldwork, genomics, and science communication to protect the species that first inspired me. Through research, art, and outreach, I strive to bridge the gap between people and the biodiversity we share our world with.
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![box turtle](/images/desert box turtle (1).jpg)
 
 
 For more info
