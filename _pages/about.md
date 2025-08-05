@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 ======
-I am a PhD student and conservation biologist located at the Collaborative Conservation Genomics Laboratory, Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic changes, such as habitat loss, climate change, and disease, are shaping the survival and evolution of threatened species. 
+
+
+I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic changes, such as habitat loss, climate change, and disease, are shaping the survival and evolution of threatened species. 
 
 I possess a deep fascination with all biodiversity, though I am especially drawn to herpetofauna (rattlesnakes in particular), as well as birds, parasites, and invertebrate species. My research broadly focuses on how Anthropogenic changes, such as habitat loss, climate change, and disease, are shaping the survival and evolution of threatened species. My doctoral research project focuses on the conservation genomics and disease ecology of the timber rattlesnake (Crotalus horridus), a long-lived pitviper of eastern North American forests.
 My experience spans both laboratory and field settings. 
@@ -24,6 +26,6 @@ Now, as a PhD student, I aim to integrate ecological fieldwork, genomics, and sc
 
 For more info
 ------
-More info about my research at the Prairie Research Institute, UIUC: [People of PRI](https://blogs.illinois.edu/view/8126/1187534807).
+More info about my research at UIUC: [People of PRI](https://blogs.illinois.edu/view/8126/1187534807).
 
-Please feel welcome to contact me at kmkarl2@illinois.edu.
+Please feel free to contact me at kmkarl2@illinois.edu.
