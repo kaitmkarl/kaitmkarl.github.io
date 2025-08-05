@@ -9,5 +9,5 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+gem "jekyll", "~> 4.2.2"
 gem 'connection_pool', '2.5.0'
