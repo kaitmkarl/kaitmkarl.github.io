@@ -11,8 +11,9 @@ redirect_from:
 
 I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic changes, such as habitat loss, climate change, and disease, are shaping the survival and evolution of threatened species. 
 
-I possess a deep fascination with all biodiversity, though I am especially drawn to herpetofauna (rattlesnakes in particular), as well as birds, parasites, and invertebrate species. My doctoral research project focuses on the conservation genomics and disease ecology of the timber rattlesnake (Crotalus horridus), a long-lived pitviper of eastern North American forests.                              
-![box turtle](/images/desert box turtle (1).jpg)
+I possess a deep fascination with all biodiversity, though I am especially drawn to herpetofauna (rattlesnakes in particular), as well as birds, parasites, and invertebrate species. My doctoral research project focuses on the conservation genomics and disease ecology of the timber rattlesnake (Crotalus horridus), a long-lived pitviper of eastern North American forests.     
+
+![box turtle]()
 
 My experience spans both laboratory and field settings. I have studied parasite diversity in Peruvian frogs, worked to untangle the phylogenetics of gartersnakes, and tracked the movements of threatened Bird-voiced Treefrogs in the swamps of southern Illinois. My current projects include investigating how climate variability affects the phenology of Western Diamondback Rattlesnakes in the Arizona-Sonora Desert and describing several novel parasite species infecting reptiles and amphibians.
 
