@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Ophiotaenia sp. n. (Eucestoda: Proteocephalidea), a parasite of Telmatobius marmoratus (Anura: Telmatobiidae) in Eastern Peru"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
