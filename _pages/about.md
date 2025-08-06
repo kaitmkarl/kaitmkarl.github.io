@@ -15,7 +15,7 @@ I possess a deep fascination with all biodiversity, though I am especially drawn
 
 My experience spans both laboratory and field settings. I have studied parasite diversity in Peruvian frogs, worked to untangle the phylogenetics of gartersnakes, and tracked the movements of threatened Bird-voiced Treefrogs in the swamps of southern Illinois. My current projects include investigating how climate variability affects the phenology of Western Diamondback Rattlesnakes in the Arizona-Sonora Desert and describing several novel parasite species infecting reptiles and amphibians.
 
-Art has always been central to how I engage with wildlife. Since childhood, I’ve kept illustrated field journals that document the wildlife I observe. As a teenager, I began using art as a tool for conservation, donating my paintings to nonprofit auctions and raising over $20,000 to support rattlesnake conservation efforts. You can view my scientific illustration portfolio and rattlesnake artwork [Portfolio](https://kaitmkarl.github.io/portfolio/).
+Art has always been central to how I engage with nature. Since my early childhood, I’ve kept a collection of drawings and notes documenting the species I observe. As a teenager, I began using art as a tool for conservation, donating my paintings to nonprofit auctions and raising over $20,000 to support rattlesnake conservation efforts. You can view my scientific illustration portfolio and rattlesnake artwork [here](https://kaitmkarl.github.io/portfolio/).
 
 Now, as a PhD student, I aim to integrate ecological fieldwork, genomics, and science communication to protect the species that first inspired me. Through research, art, and outreach, I strive to bridge the gap between people and the biodiversity we share our world with.
 
