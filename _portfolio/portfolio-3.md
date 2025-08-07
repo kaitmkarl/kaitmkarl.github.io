@@ -1,7 +1,7 @@
 ---
-title: "Eastern Massasauga (Sistrurus catenatus)"
-excerpt: "Eastern Massasauga (2018) <br/><img src='/images/massasauga2018.jpg'>"
+title: "Pristimantis frogs of the Eastern Andes"
+excerpt: "Pristimantis <br/><img src='/images/pristimantis.png'>"
 collection: portfolio
 ---
 
-This painting was completed in 2018 and auctioned to support the Rattlesnake Preservation Trust. It is now housed in the art collection at the Chiricahua Desert Museum in Rodeo, New Mexico.
+This compilation of paintings depicts an array of frog species belonging to the genus Pristimantis. Inhabiting the Eastern slopes of Peru, many of the species in this genus undergo direct development, allowing the young to bypass the tadpole stage and develop into tiny frogs while still in the eggs.
