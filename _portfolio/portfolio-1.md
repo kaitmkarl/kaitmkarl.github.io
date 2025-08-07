@@ -1,6 +1,6 @@
 ---
 title: "Arizona Ridge-nosed Rattlesnake (Crotalus willardi)"
-excerpt: "Crotalus willardi (2019) 1<br/><img src='/images/500x300.png'>"
+excerpt: "Crotalus willardi (2019) 1<br/><img src='/images/C_willardi.png'>"
 collection: portfolio
 ---
 
