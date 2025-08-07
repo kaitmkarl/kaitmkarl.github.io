@@ -1,6 +1,6 @@
 ---
 title: "Pristimantis frogs of the Eastern Andes"
-excerpt: "Pristimantis <br/><img src='/images/pristimantis.png'>"
+excerpt: "<br/><img src='/images/pristimantis.png'>"
 collection: portfolio
 ---
 
