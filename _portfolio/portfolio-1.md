@@ -1,6 +1,6 @@
 ---
 title: "Eastern Massasauga (Sistrurus catenatus)"
-excerpt: "Eastern Massasauga (2018) <br/><img src='/images/massasauga2018.jpg'>"
+excerpt: "<br/><img src='/images/massasauga2018.jpg'>"
 collection: portfolio
 ---
 
