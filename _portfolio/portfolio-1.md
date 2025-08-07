@@ -1,7 +1,7 @@
 ---
-title: "Arizona Ridge-nosed Rattlesnake (Crotalus willardi)"
-excerpt: "Crotalus willardi (2019) 1<br/><img src='/images/C_willardi.png'>"
+title: "Eastern Massasauga (Sistrurus catenatus)"
+excerpt: "Eastern Massasauga (2018) <br/><img src='/images/massasauga2018.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This painting was completed in 2018 and auctioned to support the Rattlesnake Preservation Trust. It is now housed in the art collection at the Chiricahua Desert Museum in Rodeo, New Mexico.
