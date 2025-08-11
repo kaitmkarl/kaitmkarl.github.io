@@ -1,6 +1,6 @@
 ---
 title: "Illinois Dragon & Damselflies"
-excerpt: "<br/><img src='/images/dragonflies23'>"
+excerpt: "<br/><img src='/images/dragonflies23.png'>"
 collection: portfolio
 ---
 
