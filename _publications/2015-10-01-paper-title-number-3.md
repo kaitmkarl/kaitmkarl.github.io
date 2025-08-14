@@ -1,5 +1,5 @@
 ---
-title: "A time-series analysis of winter shelter ingress and egress in Western Diamondback Rattlesnakes (Crotalus atrox), Suizo Mountains, Arizona"
+title: "Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -7,7 +7,7 @@ excerpt: 'Here, we examined the seasonal movements of a population of Western Di
 date: 2025-10-01
 venue: 'in preparation'
 
-citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;A time-series analysis of winter shelter ingress and egress in Western Diamondback Rattlesnakes (Crotalus atrox), Suizo Mountains, Arizona. &quot; <i>Journal 1</i>. 1(3).'
+citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert" />. &quot; <i>Journal 1</i>. 1(3).'
 ---
 ABSTRACT
 
