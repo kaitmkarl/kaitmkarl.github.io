@@ -7,7 +7,7 @@ excerpt: 'Here, we examined the seasonal movements of a population of Western Di
 date: 2025-10-01
 venue: 'upcoming'
 
-citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert &quot; <i>Journal</i>. 1(3).'
+citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert.&quot; <i> Proceedings of the Royal Society B (in prep) </i>. 1(3).'
 ---
 ABSTRACT
 
