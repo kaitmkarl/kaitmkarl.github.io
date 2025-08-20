@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Here, we examined the seasonal movements of a population of Western Diamondback Rattlesnakes (Crotalus atrox) in the Suizo Mountains of southern Arizona over a decade (2001–2010). Specifically, we investigated the seasonal timing of ingress and egress (the entry and exit from winter shelters) in relation to daily temperature and precipitation.'
 date: 2025-10-01
-venue: 'upcoming, 2025'
+venue: 'upcoming'
 
-citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert" />. &quot; <i>Journal 1</i>. 1(3).'
+citation: 'Karl, K.M. Martinez, A. Davis, M.A. Repp, R. and Schuett, G.W. (2025). &quot;Climate-driven shifts in overwintering behavior of Western Diamondback Rattlesnakes (Crotalus atrox) in the Sonoran Desert &quot; <i>Journal</i>. 1(3).'
 ---
 ABSTRACT
 
