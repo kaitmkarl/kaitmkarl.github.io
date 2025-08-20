@@ -7,5 +7,5 @@ excerpt: 'A novel tapeworm belonging to the genus Ophiotaenia is described from 
 date: 2025-10-01
 venue: 'upcoming'
 
-citation: 'Karl, K.M., Jiménez A., Catenazzi, A.M. (2025). &quot;Ophiotaenia sp. nov. (Eucestoda: Proteocephalidea), a parasite of Telmatobius marmoratus (Anura: Telmatobiidae) in Eastern Peru.&quot; <i>Parasitology</i>. 1(2).'
+citation: 'Karl, K.M., Jiménez A., Catenazzi, A.M. (2025). &quot;Ophiotaenia sp. nov. (Eucestoda: Proteocephalidea), a parasite of Telmatobius marmoratus (Anura: Telmatobiidae) in Eastern Peru.&quot; <i>Parasitology (in prep)</i>. 1(2).'
 ---
