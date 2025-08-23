@@ -9,7 +9,7 @@ redirect_from:
 ======
 
 
-I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic changes, such as habitat loss, climate change, and disease, are shaping the survival and evolution of threatened species. 
+I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic stressors, such as climate change, habitat loss, and emerging disease, are shaping the survival and evolution of threatened species. 
 
 I possess a deep fascination for all biodiversity, though I am especially drawn to herpetofauna (rattlesnakes in particular), as well as birds, parasites, and invertebrate species. My doctoral research focuses on the conservation genomics and disease ecology of the timber rattlesnake (Crotalus horridus), a long-lived pitviper of eastern North American forests.
 
