@@ -9,7 +9,7 @@ redirect_from:
 ======
 
 
-I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic stressors, such as climate change, habitat loss, and emerging disease, are shaping the evolution and survival of biodiversity. My doctoral research seeks to understand how herpetofauna- specifically rattlesnakes- adapt, reproduce, and respond to a rapidly changing world. I use genomic tools as well as field studies and citzen science observations to uncover the ecological and evolutionary dynamics that shape these species' persistence. 
+I am a PhD student and conservation biologist located at the Illinois Natural History Survey, University of Illinois at Urbana-Champaign. My research broadly focuses on how Anthropogenic stressors, such as climate change, habitat loss, and emerging disease, are shaping the evolution and survival of biodiversity. My doctoral research seeks to understand how herpetofauna- specifically rattlesnakes- adapt, reproduce, and respond to a rapidly changing world. I use genomic tools, as well as field studies and citzen science observations, to uncover the ecological and evolutionary dynamics that shape these species' persistence. 
 
 From studying parasite diversity in Peruvian frogs to clarifying the phylogenetic relationships of gartersnakes, my research is united by the aim of understanding the processes that influence species evolution in the face of environmental change. My current projects include investigating how climate variability impacts the phenology of Western Diamondback Rattlesnakes in the Arizona-Sonora Desert, and describing several novel parasite species infecting reptiles and amphibians.
 
